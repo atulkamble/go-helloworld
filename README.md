@@ -1,7 +1,8 @@
+```
 git init
 git clone https://github.com/atulkamble/go-helloworld
 cd go-helloworld
-```
+
 notepad main.go
 go build -o main
 ls
